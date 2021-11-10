@@ -1,2 +1,2 @@
 # pong
-Pong em javaScript e Scrath
+Pong em JavaScript
